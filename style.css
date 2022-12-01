@@ -1,0 +1,16 @@
+table, th, td {
+  border-collapse:collapse;
+  border: 2px lightblue solid;
+  
+}
+body{
+text-align: center;
+}
+
+table{
+margin:auto
+}
+
+table.classTable{
+empty-cells: show;
+}
